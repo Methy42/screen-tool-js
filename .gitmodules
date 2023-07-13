@@ -1,0 +1,3 @@
+[submodule "libscreen-tool"]
+	path = include/screen-tool
+	url = git@github.com:Methy42/screen-tool.git
